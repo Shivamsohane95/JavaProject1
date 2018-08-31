@@ -14,9 +14,9 @@ public class SSO extends Flows {
 		//run.AccessCode();
 		
 		
-		//run.NewUser();
+		run.NewUser();
 		
-		run.Newuser_AccessCode();
+		//run.Newuser_AccessCode();
 		
 		//run.NewUser_Coursekey();
 		//run.NewUser_CoursekeyInt();
